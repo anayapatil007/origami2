@@ -1,0 +1,18 @@
+.headder{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+}
+.headding{
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+    color:white;
+}
+*{border:solid}
